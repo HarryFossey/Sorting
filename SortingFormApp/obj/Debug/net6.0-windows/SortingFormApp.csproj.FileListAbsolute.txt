@@ -1,0 +1,17 @@
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\bin\Debug\net6.0-windows\SortingFormApp.exe
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\bin\Debug\net6.0-windows\SortingFormApp.deps.json
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\bin\Debug\net6.0-windows\SortingFormApp.runtimeconfig.json
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\bin\Debug\net6.0-windows\SortingFormApp.dll
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\bin\Debug\net6.0-windows\SortingFormApp.pdb
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.csproj.AssemblyReference.cache
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.Form1.resources
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.csproj.GenerateResource.cache
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.AssemblyInfoInputs.cache
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.AssemblyInfo.cs
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.csproj.CoreCompileInputs.cache
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.dll
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\refint\SortingFormApp.dll
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.pdb
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\SortingFormApp.genruntimeconfig.cache
+C:\Users\bazfo\Documents\Visual Studio 2022\Apps\SortingForm\SortingFormApp\obj\Debug\net6.0-windows\ref\SortingFormApp.dll
