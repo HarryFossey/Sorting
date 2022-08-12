@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore Sorting/SortingForm.sln
+      run: dotnet restore SortingForm.sln
     - name: Build
-      run: dotnet build --no-restore Sorting/SortingForm.sln
+      run: dotnet build --no-restore SortingForm.sln
     - name: Test
-      run: dotnet test --no-build --verbosity normal Sorting/SortingForm.sln
+      run: dotnet test --no-build --verbosity normal SortingForm.sln
